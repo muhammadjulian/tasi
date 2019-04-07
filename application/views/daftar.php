@@ -18,22 +18,15 @@
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Masukan tahun angkatan">
   </div>
    <div class="form-group">
-    <label for="exampleInputEmail1">Program Studi</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Masukan program studi">
-  </div>
-    <div class="form-group">
-    <label for="exampleInputEmail1">Jurusan</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Masukan program jurusan">
-  </div>
-   <div class="form-group">
     <label for="exampleInputEmail1">Topik Tugas Akhir</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Masukan topik tugas akhir">
   </div>
  <div class="radio-group">
    <label for="exampleInputEmail1">Pilihan Dosen pembimbing :</label><br>
-    <input type="radio" name="dosen" value="male" checked> pak rajif<br>
-  <input type="radio" name="dosen" value="female"> pak hafiz<br>
-  <input type="radio" name="dosen" value="other"> pak iqbal
+  <input type="radio" name="dosen" value="male" checked> Dr. Ir. Rahayu Sulistyorini, M.T.<br>
+  <input type="radio" name="dosen" value="female"> Bernadhita C. Marina, S.T, M.T. <br>
+  <input type="radio" name="dosen" value="other"> Winny Novalina, S.T, M.T.<br>
+  <input type="radio" name="dosen" value="other"> Syahidus Syuhada, S.T, M.T.
   </div>
   <div class="form-check">
     <input type="checkbox" class="form-check-input" id="exampleCheck1">
